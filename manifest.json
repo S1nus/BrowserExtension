@@ -1,10 +1,10 @@
 {
-	"name": "Puppify",
-	"description": "Take any bland website and make it pupperific.",
-	"version": "2.0",
+	"name": "Dislike for Twitter",
+	"description": "Adds a dislike button on Twitter",
+	"version": "1.0",
 	"homepage_url": "http://s1nus.com/",
 	"browser_action": {
-		"default_title": "Puppify!",
+		"default_title": "Dislike for Twitter",
 		"default_icon": "icon.png"
 	},
 	"permissions": [
